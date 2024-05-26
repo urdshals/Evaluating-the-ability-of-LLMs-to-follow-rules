@@ -1,0 +1,3 @@
+['information', 'work', 'fact', 'part']
+['part', 'government', 'work', 'fact']
+['system', 'part', 'school', 'house']

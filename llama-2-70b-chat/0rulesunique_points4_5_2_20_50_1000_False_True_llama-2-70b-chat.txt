@@ -1,0 +1,7 @@
+['course', 'end', 'place', 'part', 'company']
+['case', 'way', 'house', 'day', 'life']
+['course', 'year', 'man', 'government', 'life']
+['group', 'world', 'way', 'year', 'party']
+['course', 'work', 'end', 'year', 'house']
+['party', 'way', 'day', 'group', 'company']
+['group', 'course', 'company', 'world', 'life']

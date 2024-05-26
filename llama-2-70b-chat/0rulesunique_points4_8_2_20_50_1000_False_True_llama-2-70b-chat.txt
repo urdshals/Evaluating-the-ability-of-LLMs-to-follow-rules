@@ -1,0 +1,3 @@
+['course', 'day', 'place', 'world', 'part', 'work', 'end', 'year']
+['part', 'company', 'group', 'case', 'day', 'work', 'information', 'year']
+['school', 'government', 'part', 'group', 'world', 'company', 'fact', 'place']

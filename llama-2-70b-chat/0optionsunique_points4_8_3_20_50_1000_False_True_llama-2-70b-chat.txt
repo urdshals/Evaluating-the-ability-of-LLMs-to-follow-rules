@@ -1,0 +1,2 @@
+['work', 'course', 'information', 'man']
+['life', 'part', 'course', 'party']

@@ -1,0 +1,5 @@
+['system', 'information', 'course', 'end']
+['information', 'end', 'school', 'government']
+['man', 'work', 'world', 'fact']
+['system', 'case', 'fact', 'world']
+['information', 'work', 'school', 'house']

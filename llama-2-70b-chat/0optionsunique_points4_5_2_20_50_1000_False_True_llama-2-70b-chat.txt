@@ -1,0 +1,7 @@
+['fact', 'part', 'man', 'company']
+['life', 'way', 'information', 'place']
+['day', 'work', 'government', 'year']
+['fact', 'group', 'information', 'way']
+['end', 'fact', 'place', 'house']
+['group', 'day', 'information', 'school']
+['company', 'course', 'fact', 'system']

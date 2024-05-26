@@ -1,0 +1,3 @@
+['man', 'system', 'life', 'end']
+['man', 'school', 'fact', 'work']
+['information', 'place', 'course', 'life']
